@@ -1,0 +1,2 @@
+UCB1
+I chose UCB1 because the rewards are continuous numeric values instead of just 0 or 1, so it makes more sense to use an algorithm that compares average rewards with uncertainty rather than one built specifically for binary outcomes.

@@ -1,0 +1,4 @@
+This project was completed independently.
+I used the standard Python libraries numpy, pandas, and matplotlib for numerical computation, data manipulation, file I/O, and visualization.
+I used a generative AI tool (ChatGPT by OpenAI) to assist with understanding bandit algorithms conceptually, validating implementation logic, debugging code structure, and ensuring alignment with the assignment requirements. All code was reviewed, executed, and verified by me, and I am responsible for the final implementation and results.
+No other outside assistance or sources were used.
